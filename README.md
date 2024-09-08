@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @WilliamEkedahl
-- 👀 I’m interested in Building a web chess engine, that you can play against with a working chessboard. 
+- 👀 I’m interested in Building a website with a chess engine, that you can play against on a working chessboard. 
 - 🌱 I’m currently learning HTML, CSS, PHP, JS.
-- 0 I’m looking to collaborate on web development. 
+- ⚡  I’m looking to collaborate on web development. 
 - 📫 How to reach me william@ekedahl.xyz
-- ⚡ Fun fact: Im very interested in chess. 
 
 <!---
 WilliamEkedahl/WilliamEkedahl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
