@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WilliamEkedahl
 - 👀 I’m interested in Building a website with a chess engine, that you can play against on a working chessboard. 
-- 🌱 I’m currently learning HTML, CSS, PHP, JAVA, and PYTHON.
+- 🌱 I’m currently learning HTML, CSS, PHP, JAVASCRIPT, JAVA, and PYTHON.
 - ⚡  I’m looking to collaborate on web development. 
 - 📫 How to reach me william@ekedahl.xyz
 
