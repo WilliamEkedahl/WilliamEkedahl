@@ -1,5 +1,5 @@
- I’m interested in Building a website with a chess engine, that you can play against on a working chessboard. 
-currently, im learning HTML, CSS, PHP, JAVASCRIPT, JAVA, and PYTHON.
+ I’m interested in Data analysis, and Machine learning. 
+currently, im learning HTML, CSS, JAVASCRIPT, JAVA, R, UML AND PYTHON.
 
 <!---
 WilliamEkedahl/WilliamEkedahl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
